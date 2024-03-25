@@ -2,7 +2,7 @@
 
 The code will be released soon
 
-## Dataset
+## Dataset-SCICD2K
 
 We constructed an SC Image Compression Dataset (SCICD2K), encompassing over 2000 screen content images. 
 
@@ -12,4 +12,5 @@ The first included text, charts, and graphics, the second consisted of animation
 
 The dataset can be downloaded here.
 
+![dataset](https://github.com/SunshineSki/OMR_Net/assets/34992999/8f8a01ea-329b-433e-9dcb-b22b8788c981)
 
