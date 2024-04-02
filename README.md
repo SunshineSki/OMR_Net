@@ -11,7 +11,8 @@ The dataset was divided into three main categories, each containing approximatel
 The first included text, charts, and graphics, the second consisted of animations, movies, and games, and the third combined NS images with SC images.
 
 The dataset can be downloaded here.
-(Baidu disk){https://pan.baidu.com/s/1e0PJFQIU0n2o20xTKzIPDA}
+
+Baidu disk
 链接：https://pan.baidu.com/s/1e0PJFQIU0n2o20xTKzIPDA 
 提取码：501q
 
