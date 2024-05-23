@@ -20,5 +20,6 @@ Code：8uwe
 https://mega.nz/file/SmwiHQxR#cuTuMlie-nahmh6lMm4iUtOoxCw3ECWRvm0ntm8yxNU
 
 
-![dataset1](https://sunshineski.oss-cn-beijing.aliyuncs.com/img/202405232258868.png)
 
+
+![dataset1](https://github.com/SunshineSki/OMR_Net/assets/34992999/ac1b5bf7-9f85-4e29-b3d2-39248d65555a)
