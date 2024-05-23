@@ -12,9 +12,12 @@ The first included text, charts, and graphics, the second consisted of animation
 
 The dataset can be downloaded here.
 
-Baidu Disk
-链接：https://pan.baidu.com/s/1zw5IQIHRtMYuNHe1zE0IKQ 
-提取码：8uwe
+- Baidu Disk
+Link：https://pan.baidu.com/s/1zw5IQIHRtMYuNHe1zE0IKQ 
+Code：8uwe
+
+- MPGA
+https://mega.nz/file/SmwiHQxR#cuTuMlie-nahmh6lMm4iUtOoxCw3ECWRvm0ntm8yxNU
 
 
 ![dataset1](https://sunshineski.oss-cn-beijing.aliyuncs.com/img/202405232258868.png)
