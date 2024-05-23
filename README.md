@@ -2,7 +2,7 @@
 
 The code will be released soon
 
-## Dataset-SCICD2K
+## Dataset: SDU_SCICD2K
 
 We constructed an Screen Content Image Compression Dataset (SDU_SCICD2K), encompassing over 2000 screen content images. 
 
