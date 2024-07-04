@@ -1,6 +1,4 @@
-# OMR_Net
 
-The code will be released soon
 
 ## Dataset: SDU_SCICD2K
 
